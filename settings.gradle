@@ -1,2 +1,3 @@
+include ':pullzoomview'
 include ':app'
 rootProject.name = "PullZoomView"
